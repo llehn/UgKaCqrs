@@ -7,3 +7,7 @@
 - in SQL eine Datenbank "demo" von hand anlegen.
 - Jetzt sollte entweder in VS oder mit der dotnet cli das Programm bauen und starten können
 - über HTTP POST auf http://localhost:5000/api/books/addbook kann man bücher anlegen und über HTTP GET auf http://localhost:5000/api/books kann man die Liste der Bücher sehen
+
+### Slides
+
+https://docs.google.com/presentation/d/1mNxlbhHSUYGRdP_3bCdWKc-lZj7XBI-ezG600Ew5jUQ/edit?usp=sharing
